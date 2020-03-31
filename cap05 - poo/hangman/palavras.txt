@@ -1,0 +1,4 @@
+casa
+bola
+banana
+carro
